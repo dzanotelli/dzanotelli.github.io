@@ -21,8 +21,8 @@
 title: Perfection is uncertainty in disguise
 email: dazano@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  About tech, entrepreneurship, ideas, business, videogames and more. 
-  Since life's to short to stay aside and watch, let's write something.
+  About tech, management, ideas, business, videogames and more.
+  Since life's too short to stay aside and watch, let's write something.
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://dzanotelli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 url: "http://blog.rebuff.me" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,8 +30,10 @@ twitter_username: iosonobuono
 github_username:  dzanotelli
 
 github:
-- is_project_page: false
-- is_user_page: true
+  is_project_page: false
+  is_user_page: true
+  owner_name: dzanotelli
+  owner_url: https://github.com/dzanotelli
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
