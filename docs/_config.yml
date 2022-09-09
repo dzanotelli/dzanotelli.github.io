@@ -21,8 +21,8 @@
 title: Perfection is uncertainty in disguise
 email: dazano@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  About tech, management, ideas, business, videogames and more.
-  Since life's too short to stay aside and watch, let's write something.
+  About learning, tech, management, ideas, business, and more.
+  Let's write something.
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://dzanotelli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 url: "http://blog.rebuff.me" # the base hostname & protocol for your site, e.g. http://example.com
